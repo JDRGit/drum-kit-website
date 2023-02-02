@@ -17,3 +17,11 @@
 ### Acknowledgements
 Twitter @yu_angela
 
+## Screenshots
+
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
+### Acknowledgements
+
+ - https://beta.reactjs.org/learn/passing-props-to-a-component
